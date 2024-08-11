@@ -1,1 +1,3 @@
-- hello
+void main(){
+ "hello";
+}
